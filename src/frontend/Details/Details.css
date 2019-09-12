@@ -1,0 +1,29 @@
+.details {
+    background-color: black;
+}
+
+.movie_page_container {
+  display: flex; 
+  margin-top:2%;
+
+}
+
+.movie_page_container img {
+ width: 30%;
+ height: 30%;
+ margin-left:10%;
+
+}
+
+.movie_page_container .h1 {
+  color:fuchsia;
+}
+
+.text {
+  color: white;
+  font-size: 14px;
+  text-align: left;
+  width:50%;
+  margin-left:5%;
+}
+

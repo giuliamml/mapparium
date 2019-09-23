@@ -5,7 +5,7 @@ import sopranos from './images/sopranos.jpg';
 import the_sinner from './images/thesinner.jpg';
 import wild_wild_country from './images/wildwildcountry.jpg';
 
-export default function getSeries() {
+export default function getShows() {
     return [
         { id: 'black_mirror', name: 'Black Mirror', image: black_mirror, details:'Black Mirror is a British science fiction anthology television series created by Charlie Brooker, with Brooker and Annabel Jones serving as the programme showrunners. It examines modern society, particularly with regard to the unanticipated consequences of new technologies. Episodes are standalone, usually set in an alternative present or the near future, often with a dark and satirical tone, though some are more experimental and lighter.' },
         { id: 'chernobyl', name: 'Chernobyl', image: chernobyl, details:'Chernobyl dramatizes the story of the April 1986 nuclear plant disaster which occurred in the Ukrainian Soviet Socialist Republic (Soviet Union), telling the stories of the people who caused the disaster and those who responded to it.[1] The series depicts some of the lesser known stories of the disaster, including the efforts of the firefighters who were the first responders on the scene, volunteers, and teams of miners tasked with digging a critical tunnel under Reactor 4.' },

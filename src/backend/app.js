@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-const port = process.env.PORT || 3002;
+const port = process.env.PORT || 3001;
 const getShows = require('./shows');
 
 app.get('/rest/shows', (req, res) => res.send(getShows()));

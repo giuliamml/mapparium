@@ -1,0 +1,19 @@
+{
+    "cityName": "Rome",
+    "datas": [
+        {
+            "ID": "Colusseum",
+            "coordinates": [
+                41.8902,
+                12.4923
+            ]
+        },
+        {
+            "ID": "Colusseum",
+            "coordinates": [
+                41.8902,
+                12.4923
+            ]
+        }
+    ]
+}

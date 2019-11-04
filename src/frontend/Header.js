@@ -1,11 +1,15 @@
 import React from 'react';
+import mappariumlogo from './images/mapparium.logo.jpg';
+import css from './App.css';
+
+
 
 export default function Header(props) {
     return (
-        <div className='AppHeader'>
-            <p>
-                Welcome to MAPPARIUM!
-            </p>
+        <div className='Header'>
+            <h3>
+                Baths of Caracalla
+            </h3>
         </div>
     );
 

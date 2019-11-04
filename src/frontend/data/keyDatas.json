@@ -1,19 +1,94 @@
 {
-    "cityName": "Rome",
     "datas": [
         {
             "ID": "Colusseum",
+            "City": "Rome",
             "coordinates": [
                 41.8902,
                 12.4923
-            ]
+            ],
+            "description": "Built of travertine limestone, tuff (volcanic rock), and brick-faced concrete,[1] it was the largest amphitheatre ever built at the time and held 50,000 spectators. The Colosseum is situated just east of the Roman Forum. Construction began under the emperor Vespasian in AD 72[2] and was completed in AD 80 under his successor and heir, Titus.[3] Further modifications were made during the reign of Domitian (81–96).[4] These three emperors are known as the Flavian dynasty, and the amphitheatre was named in Latin for its association with their family name"
         },
         {
-            "ID": "Colusseum",
+            "ID": "Bath of Caracalla - Calidarium",
+            "City": "Rome",
             "coordinates": [
-                41.8902,
-                12.4923
-            ]
+                41.879030,
+                12.492609
+            ],
+            "description": "Built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin."
+        },
+        {
+            "ID": "Bath of Caracalla - Gym",
+            "City": "Rome",
+            "coordinates": [
+                41.879973,
+                12.492416
+            ],
+            "description": ""
+        },
+        {
+            "ID": "Bath of Caracalla - Gym",
+            "City": "Rome",
+            "coordinates": [
+                41.878933,
+                12.493836
+            ],
+            "description": "Built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin."
+        },
+        {
+            "ID": "Bath of Caracalla - Swimmingpool",
+            "City": "Rome",
+            "coordinates": [
+                41.879682,
+                12.493439
+            ],
+            "description": "Built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin."
+        },
+        {
+            "ID": "Bath of Caracalla - Changing Room",
+            "City": "Rome",
+            "coordinates": [
+                41.880016,
+                12.492911
+            ],
+            "description": "Built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin."
+        },
+        {
+            "ID": "Bath of Caracalla - Changing Room",
+            "City": "Rome",
+            "coordinates": [
+                41.879331,
+                12.493847
+            ],
+            "description": "Built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin."
+        },
+        {
+            "ID": "Bath of Caracalla - Frigidarium",
+            "City": "Rome",
+            "coordinates": [
+                41.879450,
+                12.493089
+            ],
+            "description": "Built between AD 212 (or 211) and 216/217, during the reigns of emperors Septimius Severus and Caracalla. They were in operation until the 530s and then fell into disuse and ruin."
+        },
+        {
+            "ID": "Tempio di Apollo",
+            "City": "Pompeii",
+            "coordinates": [
+                40.7492,
+                14.4844
+            ],
+            "description": "Located in the forum (market place) and Facing the northern side of the town, it is the town's most important religious building and has very ancient state of origin. The cult of Apollo, imported from Greece, was very widespread in Campania, and (from excavations in the temple's vicinity) is attested in Pompeii since the 6th century BC."
+        },
+        {
+            "ID": "Tempio di Giove",
+            "City": "Pompeii",
+            "coordinates": [
+                40.7499,
+                14.4845
+            ],
+            "description": "Initially dedicated to Jupiter alone, it was built in the mid-2nd century BC at the same time as the temple of Apollo was being renovated - this was the area at which Roman influence over Pompeii increased and so Roman Jupiter superseded the Greek Apollo as the town's highest god. Jupiter was the ruler of the gods and the protector of Rome, where his temple was the center of Roman Religion and of the cult of state."
         }
     ]
 }

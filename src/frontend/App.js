@@ -1,17 +1,27 @@
 import React, { Component } from 'react';
-//import './App.css';
-import Header from './Header';
-import Map from './Map';
+import Homepage from './Homepage';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import Rome from './Rome';
+import Pompeii from './Pompeii';
+import Aquileia from './Aquileia';
 
 class App extends Component {
   render() {
     return (
-      <div>
-        < Header/>
-        < Map/>
+      <Router>
+        <div className="App">
+          
+          <Switch>
+            <Route exact path='/' component={Homepage} />
+            <Route exact path='/rome' component={Rome} />
+            <Route exact path='/pompeii' component={Pompeii} />
+            <Route exact path='/aquileia' component={Aquileia} />
+            
+          </Switch>
 
-
-      </div>
+        </div>
+      </Router>
+      
 
       
 

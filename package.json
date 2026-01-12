@@ -11,7 +11,7 @@
     "react-dom": "^16.9.0",
     "react-map-gl": "^5.0.12",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "./node_modules/npm-run-all/bin/npm-run-all/index.js -s build start-backend",
